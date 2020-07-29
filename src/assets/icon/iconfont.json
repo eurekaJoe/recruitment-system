@@ -1,0 +1,30 @@
+{
+  "id": "1811166",
+  "name": "recruitment",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "企业人才招聘系统",
+  "glyphs": [
+    {
+      "icon_id": "809932",
+      "name": "企业",
+      "font_class": "qiye",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "943203",
+      "name": "工作经历",
+      "font_class": "gongzuojingli",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "3640193",
+      "name": "人才",
+      "font_class": "rencai",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
